@@ -1,4 +1,4 @@
-# Cluster
+# Proxmox Cluster
 
 How to install and setup a Proxmox cluster
 
@@ -56,7 +56,7 @@ How to install and setup a Proxmox cluster
 
 [https://192.168.18.101:8006](https://192.168.18.101:8006)
 
-## Cluster
+## Clustering
 
 ## Shared Storage
 
@@ -88,3 +88,5 @@ https://www.youtube.com/watch?v=EMQdN6W_y1Y
 - [Ubuntu](https://ubuntu.com/server)
 
 ## Templates
+
+
