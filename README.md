@@ -14,6 +14,7 @@ How to install and setup a Proxmox cluster
 - [High Availability](#high-availability)
 - [ISOs](#isos)
 - [Templates](#templates)
+- Cloudflare Tunnel
 
 ## Requirements
 
