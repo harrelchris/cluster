@@ -12,11 +12,17 @@
 4. Timezone: America/Chicago
 5. Password: 
 6. Email: harrelchris@gmail.com
-7. Management Interface: enp2s0
-8. Hostname: pve.example
-9. IP Address: 192.168.18.101
-10. Gateway: 192.168.18.1
-11. DNS Server: 1.1.1.1
+
+### Nodes
+
+Use node-specific values for Hostname and IP Address
+
+Field | Value
+---|---
+Hostname | pve1.example
+IP Address | 192.168.18.101
+Gateway | 192.168.18.1
+DNS Server | 1.1.1.1
 
 ## Web UI
 https://192.168.18.101:8006
