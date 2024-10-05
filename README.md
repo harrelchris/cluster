@@ -4,6 +4,22 @@ How to install and setup a Proxmox cluster
 
 [Learn Linux TV Proxmox Playlist](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 
+
+## Content
+
+- Install
+- Add drives
+- Create cluster
+- Configure Ceph
+- Setup high availability
+- Download ISOs
+- Create templates
+- Host services
+- Add Synology share
+- Configure backups
+- Setup Cloudflare tunnel
+
+
 ## Contents
 
 - [Requirements](#requirements)
