@@ -15,6 +15,7 @@ How to install and setup a Proxmox cluster
 - [ISOs](#isos)
 - [Templates](#templates)
 - Cloudflare Tunnel
+- Backups
 
 ## Requirements
 
@@ -57,9 +58,26 @@ How to install and setup a Proxmox cluster
 
 [https://192.168.18.101:8006](https://192.168.18.101:8006)
 
-## Clustering
+## Cluster
+
+### Create
+
+- On pve1, click datacenter, then cluster, then Create Cluster
+- Give a name and use defaults
+- Copy Join Information
+
+### Join
+
+- On other nodes, click Join Cluster
+- Paste in join information
+- Enter password
+- Use defaults
 
 ## Shared Storage
+
+### Ceph
+
+
 
 ### Synology NFS
 
@@ -93,3 +111,5 @@ https://www.youtube.com/watch?v=EMQdN6W_y1Y
 ## Cloudflare Tunnel
 
 https://www.youtube.com/watch?v=ZvIdFs3M5ic
+
+## Backups
