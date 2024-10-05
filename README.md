@@ -14,13 +14,12 @@
 6. Email: harrelchris@gmail.com
 7. Management Interface: enp2s0
 8. Hostname: pve.example
-9. IP Address: 192.168.100.1|2|3
-10. Gateway: 192.168.100.1
+9. IP Address: 192.168.18.101
+10. Gateway: 192.168.18.1
 11. DNS Server: 1.1.1.1
-12. Automatic Reboot: False
 
 ## Web UI
-https://192.168.100.101:8006
+https://192.168.18.101:8006
 
 ## Dell Optiplex
 Bios: F2
